@@ -1,10 +1,26 @@
-# Template Assignment
+# Describe The Character
 
 ## Problem Statement
 
+Prompt the user for a String. For each character in the string, describe whether it is a digit, whitespace, or letter. If it is a letter, then describe it as upper or lower case. Be sure to specify when a character is "special character".
+
 ## Input Description
 
+Get a string from the user, all on one line.
+
 ## Sample Input/Output
+
+```
+Enter a string: Hello!
+'H' is a letter, it is uppercase
+'e' is a letter, it is lowercase
+'l' is a letter, it is lowercase
+'l' is a letter, it is lowercase
+'o' is a letter, it is lowercase
+' ' is whitespace
+'5' is a digit
+'!' is a special character
+```
 
 ## Submission
 
